@@ -7,6 +7,6 @@
 ## 📚
 - 👨‍🎓 DEV em formação
 - 🖥️ Bootcamp Spring 3.0 na [DevSuperior](https://devsuperior.com.br/bootcamp-spring) em andamento. 
-Objetivo: Profissionalização back end.
+Objetivo: Profissionalização back end API REST.
 
 
