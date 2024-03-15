@@ -46,7 +46,7 @@ Explore alguns dos projetos que tive a oportunidade de desenvolver:
 - [DSCatalog](https://github.com/newrodrigo/dscatalog-devsuperior-aula): Um aplicativo backend de catálogos de filmes.
 
 ### Frontend
-- [DSCatalog](https://github.com/newrodrigo/dscommerce-frontend-aulas/): Esta aplicação é um sistema de comércio eletrônico que permite aos usuários navegar por um catálogo de produtos, fazer compras, gerenciar pedidos e realizar operações de autenticação e autorização.
+- [DSCommerce](https://github.com/newrodrigo/dscommerce-frontend-aulas/): Esta aplicação é um sistema de comércio eletrônico que permite aos usuários navegar por um catálogo de produtos, fazer compras, gerenciar pedidos e realizar operações de autenticação e autorização.
 
 ## Vamos Conectar 📬
 Estou sempre aberto a novas conexões e oportunidades de colaboração. Vamos compartilhar conhecimento e crescer juntos na jornada da programação!
